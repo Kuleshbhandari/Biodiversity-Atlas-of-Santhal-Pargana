@@ -2,7 +2,6 @@
 
 Open-access biodiversity atlas documenting species diversity, ecological observations, and community-linked landscape data across the tribal uplands, sal forests, wetlands, and granite outcrop ecosystems of Santhal Pargana, Eastern India, through citizen science, field ecology, and biodiversity informatics.
 
----
 
 ## Overview
 
@@ -18,7 +17,6 @@ The atlas integrates:
 
 Current coverage includes sal forests, wetlands, riparian systems, agroforestry landscapes, and granite outcrop ecosystems across the Santhal Pargana region of Jharkhand.
 
----
 
 ## Current Dataset
 
@@ -27,7 +25,6 @@ Current coverage includes sal forests, wetlands, riparian systems, agroforestry 
 * 1,700+ identifiers and taxonomic contributors
 * 500+ observers and citizen-science participants
 
----
 ### Spatial Coverage of Biodiversity Observations
 
 Heatmap visualization showing biodiversity observation density across the Santhal Pargana landscape based on citizen-science records and ecological field documentation.
@@ -43,7 +40,6 @@ https://www.inaturalist.org/projects/biodiversity-atlas-of-santhal-pargana-easte
 
 https://indiabiodiversity.org/group/Biodiversity_Atlas_of_Santhal_Pargana/show
 
----
 
 ## Objectives
 
@@ -53,7 +49,6 @@ https://indiabiodiversity.org/group/Biodiversity_Atlas_of_Santhal_Pargana/show
 * Build long-term biodiversity datasets for Eastern India
 * Support conservation awareness and ecological literacy
 
----
 
 ## Founder & Curator
 
