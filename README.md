@@ -49,6 +49,16 @@ https://indiabiodiversity.org/group/Biodiversity_Atlas_of_Santhal_Pargana/show
 * Build long-term biodiversity datasets for Eastern India
 * Support conservation awareness and ecological literacy
 
+## Media & Recognition
+
+### Regional News Coverage
+
+**“Santhal Pargana Receives Its First Digital Biodiversity Atlas”**
+Regional newspaper coverage highlighting the Biodiversity Atlas of Santhal Pargana as one of the first large-scale open-access biodiversity documentation initiatives from the tribal uplands of Eastern India.
+
+![Regional News Coverage](santhal-pargana-atlas-news-coverage.jpg)
+
+
 
 ## Founder & Curator
 
